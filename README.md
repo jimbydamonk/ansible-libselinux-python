@@ -1,3 +1,5 @@
+# ansible-libselinux-python [![Build Status](https://travis-ci.org/jimbydamonk/ansible-libselinux-python.svg?branch=master)](https://travis-ci.org/jimbydamonk/ansible-libselinux-python)
+
 Role Name
 =========
 
