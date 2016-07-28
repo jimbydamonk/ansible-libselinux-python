@@ -1,6 +1,7 @@
 galaxy_info:
   author: Mike Buzzetti
   description: A simple role to install the python bindings for selinux
+  license: Apache
   min_ansible_version: 2.0
   platforms:
     - name: EL
@@ -13,3 +14,4 @@ galaxy_info:
   galaxy_tags:
     - python
     - selinux
+  dependencies: []
